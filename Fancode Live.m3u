@@ -20,5 +20,3 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15385" tvg-logo="https://i.ibb.co.com/G4JbPXdw/tapmad.png" group-title="Sports", Tapmad Live Feed 3
 https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 
-#EXTINF:-1 tvg-id="IreenTV Movies" tvg-logo="https://i.ibb.co.com/jv4ffV0Z/ireen-TV-Movies.png" group-title="Movies", IreenTV Movies HD
-https://cinevault-tv.pages.dev/?mode=player&channel=ireentvmovies&fullscreen=1
