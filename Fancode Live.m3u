@@ -23,5 +23,3 @@ https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="IreenTV Movies" tvg-logo="https://i.ibb.co.com/jv4ffV0Z/ireen-TV-Movies.png" group-title="Movies", IreenTV Movies HD
 https://cinevault-tv.pages.dev/?mode=player&channel=ireentvmovies&fullscreen=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JxYFx40/laliga.png" group-title="Sports", Laliga TV HD
-https://lb19.strmd.st/secure/gQUzZkoPrRIETBBEnqiTDzyMABMgXVpS/ingest/stream/streamedrealmadrid/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
