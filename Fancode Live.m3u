@@ -23,3 +23,28 @@ https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="IreenTV Movies" tvg-logo="https://i.ibb.co.com/jv4ffV0Z/ireen-TV-Movies.png" group-title="Movies", IreenTV Movies HD
 https://cinevault-tv.pages.dev/?mode=player&channel=ireentvmovies&fullscreen=1
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports" tvg-name="Sony Ten 1",Sony Ten Sports 1
+https://techandeat.online/sliv/stream.m3u8?id=1000009276|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports" tvg-name="Sony Ten 2",Sony Ten Sports 2
+https://techandeat.online/sliv/stream.m3u8?id=1000009277|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports" tvg-name="Sony Ten 3",Sony Ten Sports 3
+https://techandeat.online/sliv/stream.m3u8?id=1000009278|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
+https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009246|Referer=https://techandeat.online/
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies" tvg-name="Sony Pix",Sony Pix FHD
+https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
+
+
+
+
+
+
+
+
