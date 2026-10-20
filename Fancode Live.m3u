@@ -1,4 +1,7 @@
 
+     ─────────── Sports ───────────
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="Sports",Fancode Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,6 +37,10 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009278|Referer=https://techand
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports" tvg-name="Sony Ten 5",Sony Ten Sports 5
 https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/
+
+
+     ─────────── Hindi ───────────
+
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies" tvg-name="Sony Max HD",Sony Max HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009246|Referer=https://techandeat.online/
